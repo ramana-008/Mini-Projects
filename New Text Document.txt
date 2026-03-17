@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "scenario": "Copying homework from a friend",
+    "framework": "Utilitarianism",
+    "verdict": "Unethical",
+    "reasoning": "Benefits one student but harms collective learning and reduces overall good."
+  },
+  {
+    "id": 2,
+    "scenario": "Copying homework from a friend",
+    "framework": "Fairness/Justice",
+    "verdict": "Unethical",
+    "reasoning": "Creates unfair advantage and violates equal treatment."
+  },
+  {
+    "id": 3,
+    "scenario": "Helping a peer study before exams",
+    "framework": "Utilitarianism",
+    "verdict": "Ethical",
+    "reasoning": "Increases collective success and happiness."
+  },
+  {
+    "id": 4,
+    "scenario": "Helping a peer study before exams",
+    "framework": "Fairness/Justice",
+    "verdict": "Ethical",
+    "reasoning": "Promotes equal opportunity and fairness."
+  },
+  {
+    "id": 5,
+    "scenario": "Skipping group work and letting others do it",
+    "framework": "Utilitarianism",
+    "verdict": "Unethical",
+    "reasoning": "Reduces group productivity and harms collective outcome."
+  },
+  {
+    "id": 6,
+    "scenario": "Skipping group work and letting others do it",
+    "framework": "Fairness/Justice",
+    "verdict": "Unethical",
+    "reasoning": "Unequal contribution violates fairness."
+  },
+  {
+    "id": 7,
+    "scenario": "Sharing notes with classmates",
+    "framework": "Utilitarianism",
+    "verdict": "Ethical",
+    "reasoning": "Maximizes benefit for many students."
+  },
+  {
+    "id": 8,
+    "scenario": "Sharing notes with classmates",
+    "framework": "Fairness/Justice",
+    "verdict": "Ethical",
+    "reasoning": "Ensures equal access to resources."
+  },
+  {
+    "id": 9,
+    "scenario": "Using AI tools to generate assignment answers",
+    "framework": "Utilitarianism",
+    "verdict": "Mixed",
+    "reasoning": "Short-term benefit, but harms long-term learning outcomes."
+  },
+  {
+    "id": 10,
+    "scenario": "Using AI tools to generate assignment answers",
+    "framework": "Fairness/Justice",
+    "verdict": "Unethical",
+    "reasoning": "Gives unfair advantage compared to peers who work manually."
+  }
+]
